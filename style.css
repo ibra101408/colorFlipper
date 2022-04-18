@@ -1,0 +1,25 @@
+#bgColor{
+    border-radius: 25px;
+    }
+#smpl{
+    margin-right: 430px;
+}
+#btn{
+    margin-left: 40%;
+}
+
+#add{
+    margin-left:90%;
+    margin-top:-10%;
+}
+#clr{
+    color: white;
+}
+#getList{
+}
+
+#displayList{
+    margin-left:280px;
+    border-radius: 3px 3px 7px 25px;
+}
+
